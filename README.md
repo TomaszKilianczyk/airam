@@ -1,6 +1,7 @@
-![Logo AIram](logo(2).png)
+
 
 # AIram  
+![Logo AIram](logo(2).png)
 **Innowacja to nie technologia, to sposób myślenia**
 
 ---
