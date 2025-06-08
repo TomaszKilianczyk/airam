@@ -1,0 +1,2 @@
+# airam
+lekka pamięć ai
