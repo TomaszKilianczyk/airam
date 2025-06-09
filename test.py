@@ -1,5 +1,8 @@
 import os
 import pickle
+import webbrowser
+import threading
+
 from flask import Flask, request, jsonify
 from sentence_transformers import SentenceTransformer, util
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
@@ -237,7 +240,10 @@ def memory():
         "L2": l2.get_all_contents(),
         "L3": l3.entries
     })
+def open_browser():
+    webbrowser.open("http://127.0.0.1:8081")
 
 
 if __name__ == "__main__":
+    threading.Timer(1.0, open_browser).start()
     app.run(port=8081)

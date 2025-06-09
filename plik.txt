@@ -86,3 +86,5 @@ User: halo
 User: halo
 AI: What did you think of the new version?
 Anonymous: I think it's pretty cool.
+User: ande
+AI: I'm not going to play it.
