@@ -13,6 +13,8 @@ Zamiast polegać wyłącznie na monolitycznych modelach i gigantycznych bazach d
 Ten model inspiruje się naturalnymi procesami zapamiętywania i przypominania, tworząc system odporny na zapominanie i zdolny do adaptacyjnego zarządzania wiedzą.
 
 ## Wprowadzenie  
+![](memory.png)
+
 AIram to lekka, efektywna i trwała architektura pamięci AI, łącząca trzy warstwy pamięci:  
 - **L1** – krótkoterminowa, dynamiczna pamięć konwersacji  
 - **L2** – operacyjna pamięć o ograniczonej liczbie slotów z aktywnością  
