@@ -36,7 +36,6 @@ Mechanizm ACR dopasowuje kontekst z archiwum plikowego do bieżących potrzeb, p
 ## Zalety  
 - Odporność na zapominanie dzięki trójwarstwowej pamięci i archiwum.  
 - Efektywne, adaptacyjne zarządzanie pamięcią krótkoterminową i operacyjną.  
-- Lekkość i możliwość działania offline na ograniczonych zasobach.  
 - Modularność, łatwość rozbudowy i integracji.
 
 ## Perspektywy  
@@ -49,6 +48,6 @@ Mechanizm ACR dopasowuje kontekst z archiwum plikowego do bieżących potrzeb, p
 
 
 **Autor:** Tomasz Kiliańczyk  
-**Rok:** 2025  
+**Rok:** 10/06/2025  
 **Projekt – AIram**
 
