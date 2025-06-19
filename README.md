@@ -26,7 +26,7 @@ Mechanizm **ACR (Aktywny Mechanizm Odzyskiwania Kontekstu)** inteligentnie promu
 - **L1** przechowuje bieżące konwersacje i szybkie fakty.  
 - **L2** zarządza slotami pamięci z aktywnością, która zanika i wzmacnia się w zależności od zapytań.  
 - **L3** to wolniej aktualizowana baza trwałej wiedzy.
-
+![](ooda.png)
 Mechanizm ACR dopasowuje kontekst z archiwum plikowego do bieżących potrzeb, promując istotne informacje do L2 i zapewniając trwałość.
 
 ## Implementacja  
